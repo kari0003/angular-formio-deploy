@@ -1,0 +1,10 @@
+{
+  "main": "../bundles/angular-formio-grid.umd.js",
+  "module": "../fesm2015/angular-formio-grid.js",
+  "es2015": "../fesm2015/angular-formio-grid.js",
+  "esm2015": "../esm2015/grid/angular-formio-grid.js",
+  "fesm2015": "../fesm2015/angular-formio-grid.js",
+  "typings": "angular-formio-grid.d.ts",
+  "sideEffects": false,
+  "name": "angular-formio/grid"
+}

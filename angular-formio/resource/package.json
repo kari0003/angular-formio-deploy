@@ -1,0 +1,10 @@
+{
+  "main": "../bundles/angular-formio-resource.umd.js",
+  "module": "../fesm2015/angular-formio-resource.js",
+  "es2015": "../fesm2015/angular-formio-resource.js",
+  "esm2015": "../esm2015/resource/angular-formio-resource.js",
+  "fesm2015": "../fesm2015/angular-formio-resource.js",
+  "typings": "angular-formio-resource.d.ts",
+  "sideEffects": false,
+  "name": "angular-formio/resource"
+}

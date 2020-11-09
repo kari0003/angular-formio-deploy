@@ -1,0 +1,10 @@
+{
+  "main": "../bundles/angular-formio-auth.umd.js",
+  "module": "../fesm2015/angular-formio-auth.js",
+  "es2015": "../fesm2015/angular-formio-auth.js",
+  "esm2015": "../esm2015/auth/angular-formio-auth.js",
+  "fesm2015": "../fesm2015/angular-formio-auth.js",
+  "typings": "angular-formio-auth.d.ts",
+  "sideEffects": false,
+  "name": "angular-formio/auth"
+}

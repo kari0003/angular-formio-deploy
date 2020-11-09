@@ -1,0 +1,10 @@
+{
+  "main": "../bundles/angular-formio-manager.umd.js",
+  "module": "../fesm2015/angular-formio-manager.js",
+  "es2015": "../fesm2015/angular-formio-manager.js",
+  "esm2015": "../esm2015/manager/angular-formio-manager.js",
+  "fesm2015": "../fesm2015/angular-formio-manager.js",
+  "typings": "angular-formio-manager.d.ts",
+  "sideEffects": false,
+  "name": "angular-formio/manager"
+}
