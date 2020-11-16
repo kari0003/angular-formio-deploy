@@ -9,3 +9,4 @@ export declare class FormioAlerts {
     addAlert(alert: FormioAlert): void;
     setAlerts(alerts: FormioAlert[]): void;
 }
+//# sourceMappingURL=formio.alerts.d.ts.map

@@ -7,3 +7,4 @@ declare const _default: {
     footer: typeof SubmissionGridFooterComponent;
 };
 export default _default;
+//# sourceMappingURL=index.d.ts.map

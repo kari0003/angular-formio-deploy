@@ -23,3 +23,4 @@ export declare class FormManagerConfig {
     static ɵfac: i0.ɵɵFactoryDef<FormManagerConfig, never>;
     static ɵprov: i0.ɵɵInjectableDef<FormManagerConfig>;
 }
+//# sourceMappingURL=form-manager.config.d.ts.map

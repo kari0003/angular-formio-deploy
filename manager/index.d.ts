@@ -14,3 +14,4 @@ export { SubmissionIndexComponent } from './submission/index/index.component';
 export { SubmissionComponent } from './submission/submission/submission.component';
 export { FormManagerRouteConfig } from './form-manager.config';
 export { FormManagerModule } from './form-manager.module';
+//# sourceMappingURL=index.d.ts.map

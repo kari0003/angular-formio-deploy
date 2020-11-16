@@ -5,3 +5,4 @@ export { FormioAuthLoginComponent } from './login/login.component';
 export { FormioAuthRegisterComponent } from './register/register.component';
 export { FormioAuthRoutes } from './auth.routes';
 export { FormioAuth } from './auth.module';
+//# sourceMappingURL=index.d.ts.map

@@ -10,3 +10,4 @@ export declare class SubmissionIndexComponent {
     static ɵfac: i0.ɵɵFactoryDef<SubmissionIndexComponent, never>;
     static ɵcmp: i0.ɵɵComponentDefWithMeta<SubmissionIndexComponent, "ng-component", never, {}, {}, never, never>;
 }
+//# sourceMappingURL=index.component.d.ts.map

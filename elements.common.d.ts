@@ -28,3 +28,4 @@ export interface FormioCustomComponent<T> {
     disabled: boolean;
     formioEvent?: EventEmitter<FormioEvent>;
 }
+//# sourceMappingURL=elements.common.d.ts.map

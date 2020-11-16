@@ -16,3 +16,4 @@ export declare class FormioResource {
     static ɵmod: i0.ɵɵNgModuleDefWithMeta<FormioResource, [typeof i1.FormioResourceComponent, typeof i2.FormioResourceCreateComponent, typeof i3.FormioResourceIndexComponent, typeof i4.FormioResourceViewComponent, typeof i5.FormioResourceEditComponent, typeof i6.FormioResourceDeleteComponent], [typeof i7.CommonModule, typeof i8.FormioModule, typeof i9.FormioGrid, typeof i10.RouterModule], never>;
     static ɵinj: i0.ɵɵInjectorDef<FormioResource>;
 }
+//# sourceMappingURL=resource.module.d.ts.map

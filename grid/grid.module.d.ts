@@ -15,3 +15,4 @@ export declare class FormioGrid {
     static ɵmod: i0.ɵɵNgModuleDefWithMeta<FormioGrid, [typeof i1.FormioGridComponent, typeof i2.FormGridHeaderComponent, typeof i3.FormGridBodyComponent, typeof i4.FormGridFooterComponent, typeof i5.SubmissionGridHeaderComponent, typeof i6.SubmissionGridBodyComponent, typeof i7.SubmissionGridFooterComponent], [typeof i8.CommonModule, typeof i9.FormsModule, typeof i10.FormioModule, typeof i11.RouterModule, typeof i12.PaginationModule], [typeof i1.FormioGridComponent]>;
     static ɵinj: i0.ɵɵInjectorDef<FormioGrid>;
 }
+//# sourceMappingURL=grid.module.d.ts.map

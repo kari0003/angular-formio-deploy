@@ -3,3 +3,4 @@ export declare enum GridFooterPositions {
     top = 1,
     both = 2
 }
+//# sourceMappingURL=grid-footer-positions.d.ts.map

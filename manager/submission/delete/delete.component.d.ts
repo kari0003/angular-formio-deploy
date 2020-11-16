@@ -13,3 +13,4 @@ export declare class SubmissionDeleteComponent {
     static ɵfac: i0.ɵɵFactoryDef<SubmissionDeleteComponent, never>;
     static ɵcmp: i0.ɵɵComponentDefWithMeta<SubmissionDeleteComponent, "ng-component", never, {}, {}, never, never>;
 }
+//# sourceMappingURL=delete.component.d.ts.map

@@ -13,3 +13,4 @@ export declare class FormManagerDeleteComponent {
     static ɵfac: i0.ɵɵFactoryDef<FormManagerDeleteComponent, never>;
     static ɵcmp: i0.ɵɵComponentDefWithMeta<FormManagerDeleteComponent, "ng-component", never, {}, {}, never, never>;
 }
+//# sourceMappingURL=delete.component.d.ts.map

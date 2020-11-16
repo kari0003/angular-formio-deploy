@@ -7,3 +7,4 @@ export declare class SubmissionGridFooterComponent extends GridFooterComponent i
     static ɵfac: i0.ɵɵFactoryDef<SubmissionGridFooterComponent, never>;
     static ɵcmp: i0.ɵɵComponentDefWithMeta<SubmissionGridFooterComponent, "ng-component", never, {}, {}, never, never>;
 }
+//# sourceMappingURL=SubmissionGridFooter.component.d.ts.map

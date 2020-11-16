@@ -8,3 +8,4 @@ export declare class FormGridHeaderComponent extends GridHeaderComponent {
     static ɵfac: i0.ɵɵFactoryDef<FormGridHeaderComponent, never>;
     static ɵcmp: i0.ɵɵComponentDefWithMeta<FormGridHeaderComponent, "form-grid-header", never, {}, {}, never, never>;
 }
+//# sourceMappingURL=FormGridHeader.component.d.ts.map

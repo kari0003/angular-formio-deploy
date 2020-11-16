@@ -30,3 +30,4 @@ export declare abstract class GridBodyComponent {
     static ɵfac: i0.ɵɵFactoryDef<GridBodyComponent, never>;
     static ɵcmp: i0.ɵɵComponentDefWithMeta<GridBodyComponent, "ng-component", never, { "header": "header"; "actionAllowed": "actionAllowed"; }, { "rowSelect": "rowSelect"; "rowAction": "rowAction"; }, never, never>;
 }
+//# sourceMappingURL=GridBodyComponent.d.ts.map

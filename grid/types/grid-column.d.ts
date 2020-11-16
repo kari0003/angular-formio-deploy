@@ -4,3 +4,4 @@ export interface GridColumn {
     path: string;
     renderCell?(cellValue: any, component?: ComponentInstance): string;
 }
+//# sourceMappingURL=grid-column.d.ts.map

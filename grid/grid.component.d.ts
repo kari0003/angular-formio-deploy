@@ -55,3 +55,4 @@ export declare class FormioGridComponent implements OnChanges, OnInit, AfterView
     static ɵfac: i0.ɵɵFactoryDef<FormioGridComponent, never>;
     static ɵcmp: i0.ɵɵComponentDefWithMeta<FormioGridComponent, "formio-grid", never, { "footerPosition": "footerPosition"; "src": "src"; "items": "items"; "onForm": "onForm"; "query": "query"; "refresh": "refresh"; "columns": "columns"; "gridType": "gridType"; "size": "size"; "components": "components"; "formio": "formio"; "createText": "createText"; "isActionAllowed": "isActionAllowed"; }, { "select": "select"; "rowSelect": "rowSelect"; "rowAction": "rowAction"; "createItem": "createItem"; "error": "error"; }, never, never>;
 }
+//# sourceMappingURL=grid.component.d.ts.map

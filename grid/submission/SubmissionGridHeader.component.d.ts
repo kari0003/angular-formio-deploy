@@ -27,3 +27,4 @@ export declare class SubmissionGridHeaderComponent extends GridHeaderComponent {
     static ɵfac: i0.ɵɵFactoryDef<SubmissionGridHeaderComponent, never>;
     static ɵcmp: i0.ɵɵComponentDefWithMeta<SubmissionGridHeaderComponent, "ng-component", never, {}, {}, never, never>;
 }
+//# sourceMappingURL=SubmissionGridHeader.component.d.ts.map

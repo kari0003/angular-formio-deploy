@@ -3,3 +3,4 @@ export declare class FormioAuthComponent {
     static ɵfac: i0.ɵɵFactoryDef<FormioAuthComponent, never>;
     static ɵcmp: i0.ɵɵComponentDefWithMeta<FormioAuthComponent, "ng-component", never, {}, {}, never, never>;
 }
+//# sourceMappingURL=auth.component.d.ts.map

@@ -17,3 +17,4 @@ export declare abstract class GridFooterComponent {
     static ɵfac: i0.ɵɵFactoryDef<GridFooterComponent, never>;
     static ɵcmp: i0.ɵɵComponentDefWithMeta<GridFooterComponent, "ng-component", never, { "header": "header"; "body": "body"; "createText": "createText"; "size": "size"; "actionAllowed": "actionAllowed"; }, { "pageChanged": "pageChanged"; "createItem": "createItem"; }, never, never>;
 }
+//# sourceMappingURL=GridFooterComponent.d.ts.map

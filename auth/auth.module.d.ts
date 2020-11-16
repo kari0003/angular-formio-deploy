@@ -12,3 +12,4 @@ export declare class FormioAuth {
     static ɵmod: i0.ɵɵNgModuleDefWithMeta<FormioAuth, [typeof i1.FormioAuthComponent, typeof i2.FormioAuthLoginComponent, typeof i3.FormioAuthRegisterComponent], [typeof i4.CommonModule, typeof i5.FormioModule, typeof i6.RouterModule], never>;
     static ɵinj: i0.ɵɵInjectorDef<FormioAuth>;
 }
+//# sourceMappingURL=auth.module.d.ts.map

@@ -9,3 +9,4 @@ export declare class FormioAlertsComponent implements OnInit {
     static ɵfac: i0.ɵɵFactoryDef<FormioAlertsComponent, never>;
     static ɵcmp: i0.ɵɵComponentDefWithMeta<FormioAlertsComponent, "formio-alerts", never, { "alerts": "alerts"; }, { "focusComponent": "focusComponent"; }, never, never>;
 }
+//# sourceMappingURL=formio.alerts.component.d.ts.map

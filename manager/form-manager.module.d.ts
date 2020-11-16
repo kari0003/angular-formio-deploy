@@ -24,3 +24,4 @@ export declare class FormManagerModule {
     static ɵmod: i0.ɵɵNgModuleDefWithMeta<FormManagerModule, [typeof i1.FormManagerIndexComponent, typeof i2.FormManagerCreateComponent, typeof i3.FormManagerFormComponent, typeof i4.FormManagerViewComponent, typeof i5.FormManagerEditComponent, typeof i6.FormManagerDeleteComponent, typeof i7.SubmissionComponent, typeof i8.SubmissionEditComponent, typeof i9.SubmissionDeleteComponent, typeof i10.SubmissionViewComponent, typeof i11.SubmissionIndexComponent], [typeof i12.CommonModule, typeof i13.FormioModule, typeof i14.RouterModule, typeof i15.FormsModule, typeof i16.FormioGrid, typeof i17.ModalModule, typeof i18.PaginationModule], never>;
     static ɵinj: i0.ɵɵInjectorDef<FormManagerModule>;
 }
+//# sourceMappingURL=form-manager.module.d.ts.map

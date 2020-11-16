@@ -24,3 +24,4 @@ export declare class FormManagerIndexComponent implements OnInit {
     static ɵfac: i0.ɵɵFactoryDef<FormManagerIndexComponent, never>;
     static ɵcmp: i0.ɵɵComponentDefWithMeta<FormManagerIndexComponent, "ng-component", never, {}, {}, never, never>;
 }
+//# sourceMappingURL=index.component.d.ts.map

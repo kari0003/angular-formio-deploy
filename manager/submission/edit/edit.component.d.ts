@@ -10,3 +10,4 @@ export declare class SubmissionEditComponent {
     static ɵfac: i0.ɵɵFactoryDef<SubmissionEditComponent, never>;
     static ɵcmp: i0.ɵɵComponentDefWithMeta<SubmissionEditComponent, "ng-component", never, {}, {}, never, never>;
 }
+//# sourceMappingURL=edit.component.d.ts.map

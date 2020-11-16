@@ -9,3 +9,4 @@ export declare class FormioModule {
     static ɵmod: i0.ɵɵNgModuleDefWithMeta<FormioModule, [typeof i1.FormioComponent, typeof i2.FormBuilderComponent, typeof i3.FormioLoaderComponent, typeof i4.FormioAlertsComponent, typeof i5.ParseHtmlContentPipe], [typeof i6.CommonModule], [typeof i1.FormioComponent, typeof i2.FormBuilderComponent, typeof i3.FormioLoaderComponent, typeof i4.FormioAlertsComponent]>;
     static ɵinj: i0.ɵɵInjectorDef<FormioModule>;
 }
+//# sourceMappingURL=formio.module.d.ts.map

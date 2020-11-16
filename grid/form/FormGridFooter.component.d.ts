@@ -7,3 +7,4 @@ export declare class FormGridFooterComponent extends GridFooterComponent impleme
     static ɵfac: i0.ɵɵFactoryDef<FormGridFooterComponent, never>;
     static ɵcmp: i0.ɵɵComponentDefWithMeta<FormGridFooterComponent, "ng-component", never, {}, {}, never, never>;
 }
+//# sourceMappingURL=FormGridFooter.component.d.ts.map

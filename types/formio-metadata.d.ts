@@ -8,3 +8,4 @@ export default interface FormioMetadata {
     pathName?: string;
     onLine?: boolean;
 }
+//# sourceMappingURL=formio-metadata.d.ts.map

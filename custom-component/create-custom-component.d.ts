@@ -236,3 +236,4 @@ export declare function createCustomFormioComponent(customComponentOptions: Form
     readonly builderInfo: BuilderInfo;
     tableView(value: any, options: any): void;
 };
+//# sourceMappingURL=create-custom-component.d.ts.map

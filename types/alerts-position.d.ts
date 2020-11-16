@@ -4,3 +4,4 @@ export declare enum AlertsPosition {
     bottom = 2,
     both = 3
 }
+//# sourceMappingURL=alerts-position.d.ts.map

@@ -16,3 +16,4 @@ export declare class FormioResourceCreateComponent implements OnInit {
     static ɵfac: i0.ɵɵFactoryDef<FormioResourceCreateComponent, never>;
     static ɵcmp: i0.ɵɵComponentDefWithMeta<FormioResourceCreateComponent, "ng-component", never, {}, {}, never, never>;
 }
+//# sourceMappingURL=create.component.d.ts.map

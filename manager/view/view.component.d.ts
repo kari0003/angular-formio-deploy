@@ -21,3 +21,4 @@ export declare class FormManagerViewComponent implements OnInit {
     static ɵfac: i0.ɵɵFactoryDef<FormManagerViewComponent, never>;
     static ɵcmp: i0.ɵɵComponentDefWithMeta<FormManagerViewComponent, "ng-component", never, {}, {}, never, never>;
 }
+//# sourceMappingURL=view.component.d.ts.map

@@ -7,3 +7,4 @@ export declare class FormioAppConfig {
     static ɵfac: i0.ɵɵFactoryDef<FormioAppConfig, never>;
     static ɵprov: i0.ɵɵInjectableDef<FormioAppConfig>;
 }
+//# sourceMappingURL=formio.config.d.ts.map

@@ -19,3 +19,4 @@ export declare class FormioResourceComponent implements OnInit, OnDestroy {
     static ɵfac: i0.ɵɵFactoryDef<FormioResourceComponent, never>;
     static ɵcmp: i0.ɵɵComponentDefWithMeta<FormioResourceComponent, "ng-component", never, {}, {}, never, never>;
 }
+//# sourceMappingURL=resource.component.d.ts.map

@@ -46,3 +46,4 @@ export declare class FormioResourceService {
     static ɵfac: i0.ɵɵFactoryDef<FormioResourceService, [null, null, { optional: true; }, null]>;
     static ɵprov: i0.ɵɵInjectableDef<FormioResourceService>;
 }
+//# sourceMappingURL=resource.service.d.ts.map

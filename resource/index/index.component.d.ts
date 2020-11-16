@@ -20,3 +20,4 @@ export declare class FormioResourceIndexComponent implements OnInit {
     static ɵfac: i0.ɵɵFactoryDef<FormioResourceIndexComponent, never>;
     static ɵcmp: i0.ɵɵComponentDefWithMeta<FormioResourceIndexComponent, "ng-component", never, {}, {}, never, never>;
 }
+//# sourceMappingURL=index.component.d.ts.map

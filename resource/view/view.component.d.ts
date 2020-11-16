@@ -8,3 +8,4 @@ export declare class FormioResourceViewComponent {
     static ɵfac: i0.ɵɵFactoryDef<FormioResourceViewComponent, never>;
     static ɵcmp: i0.ɵɵComponentDefWithMeta<FormioResourceViewComponent, "ng-component", never, {}, {}, never, never>;
 }
+//# sourceMappingURL=view.component.d.ts.map

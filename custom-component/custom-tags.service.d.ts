@@ -5,3 +5,4 @@ export declare class CustomTagsService {
     static ɵfac: i0.ɵɵFactoryDef<CustomTagsService, never>;
     static ɵprov: i0.ɵɵInjectableDef<CustomTagsService>;
 }
+//# sourceMappingURL=custom-tags.service.d.ts.map

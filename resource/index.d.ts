@@ -9,3 +9,4 @@ export { FormioResourceCreateComponent } from './create/create.component';
 export { FormioResourceIndexComponent } from './index/index.component';
 export { FormioResourceRoutes } from './resource.routes';
 export { FormioResource } from './resource.module';
+//# sourceMappingURL=index.d.ts.map

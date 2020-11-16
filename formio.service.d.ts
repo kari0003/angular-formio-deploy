@@ -15,3 +15,4 @@ export declare class FormioService {
     saveSubmission(submission: {}, options?: any): Observable<{}>;
     loadSubmissions(query?: any, options?: any): Observable<{}>;
 }
+//# sourceMappingURL=formio.service.d.ts.map

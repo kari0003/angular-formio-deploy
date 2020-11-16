@@ -14,3 +14,4 @@ export declare class FormioResourceEditComponent {
     static ɵfac: i0.ɵɵFactoryDef<FormioResourceEditComponent, never>;
     static ɵcmp: i0.ɵɵComponentDefWithMeta<FormioResourceEditComponent, "ng-component", never, {}, {}, never, never>;
 }
+//# sourceMappingURL=edit.component.d.ts.map

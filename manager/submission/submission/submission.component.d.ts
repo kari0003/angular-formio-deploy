@@ -12,3 +12,4 @@ export declare class SubmissionComponent implements OnInit {
     static ɵfac: i0.ɵɵFactoryDef<SubmissionComponent, never>;
     static ɵcmp: i0.ɵɵComponentDefWithMeta<SubmissionComponent, "ng-component", never, {}, {}, never, never>;
 }
+//# sourceMappingURL=submission.component.d.ts.map

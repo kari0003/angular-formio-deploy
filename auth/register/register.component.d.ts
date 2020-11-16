@@ -6,3 +6,4 @@ export declare class FormioAuthRegisterComponent {
     static ɵfac: i0.ɵɵFactoryDef<FormioAuthRegisterComponent, never>;
     static ɵcmp: i0.ɵɵComponentDefWithMeta<FormioAuthRegisterComponent, "ng-component", never, {}, {}, never, never>;
 }
+//# sourceMappingURL=register.component.d.ts.map

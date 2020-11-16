@@ -12,3 +12,4 @@ export declare class FormioComponent extends FormioBaseComponent implements OnIn
     static ɵfac: i0.ɵɵFactoryDef<FormioComponent, [null, { optional: true; }, { optional: true; }]>;
     static ɵcmp: i0.ɵɵComponentDefWithMeta<FormioComponent, "formio", never, {}, {}, never, never>;
 }
+//# sourceMappingURL=formio.component.d.ts.map

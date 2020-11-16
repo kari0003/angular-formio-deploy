@@ -13,3 +13,4 @@ export declare abstract class GridHeaderComponent {
     static ɵfac: i0.ɵɵFactoryDef<GridHeaderComponent, never>;
     static ɵcmp: i0.ɵɵComponentDefWithMeta<GridHeaderComponent, "ng-component", never, { "actionAllowed": "actionAllowed"; }, { "sort": "sort"; }, never, never>;
 }
+//# sourceMappingURL=GridHeaderComponent.d.ts.map

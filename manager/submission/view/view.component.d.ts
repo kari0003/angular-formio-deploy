@@ -6,3 +6,4 @@ export declare class SubmissionViewComponent {
     static ɵfac: i0.ɵɵFactoryDef<SubmissionViewComponent, never>;
     static ɵcmp: i0.ɵɵComponentDefWithMeta<SubmissionViewComponent, "ng-component", never, {}, {}, never, never>;
 }
+//# sourceMappingURL=view.component.d.ts.map

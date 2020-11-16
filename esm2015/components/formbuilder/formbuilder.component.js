@@ -164,7 +164,7 @@ FormBuilderComponent.ɵcmp = i0.ɵɵdefineComponent({ type: FormBuilderComponent
         i0.ɵɵqueryRefresh(_t = i0.ɵɵloadQuery()) && (ctx.builderElement = _t.first);
     } }, inputs: { form: "form", options: "options", formbuilder: "formbuilder", noeval: "noeval", refresh: "refresh", rebuild: "rebuild" }, outputs: { change: "change" }, features: [i0.ɵɵNgOnChangesFeature], decls: 2, vars: 0, consts: [["builder", ""]], template: function FormBuilderComponent_Template(rf, ctx) { if (rf & 1) {
         i0.ɵɵelement(0, "div", null, 0);
-    } }, styles: ["@import \"/node_modules/formiojs/dist/formio.builder.min.css\";"], encapsulation: 2 });
+    } }, styles: [""], encapsulation: 2 });
 /*@__PURE__*/ (function () { i0.ɵsetClassMetadata(FormBuilderComponent, [{
         type: Component,
         args: [{

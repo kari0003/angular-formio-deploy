@@ -4,3 +4,4 @@ export declare function registerCustomTag(tag: string, injector: Injector): void
 export declare function registerCustomTags(tags: string[], injector: Injector): void;
 export declare function registerCustomFormioComponent(options: FormioCustomComponentInfo, angularComponent: Type<any>, injector: Injector): void;
 export declare function registerCustomFormioComponentWithClass(options: FormioCustomComponentInfo, angularComponent: Type<any>, formioClass: any, injector: Injector): void;
+//# sourceMappingURL=register-custom-component.d.ts.map

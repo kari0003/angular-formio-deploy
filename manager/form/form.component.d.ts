@@ -27,3 +27,4 @@ export declare class FormManagerFormComponent implements OnInit {
     static ɵfac: i0.ɵɵFactoryDef<FormManagerFormComponent, never>;
     static ɵcmp: i0.ɵɵComponentDefWithMeta<FormManagerFormComponent, "ng-component", never, {}, {}, never, never>;
 }
+//# sourceMappingURL=form.component.d.ts.map

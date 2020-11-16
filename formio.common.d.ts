@@ -61,3 +61,4 @@ export interface FormioOptions {
     hooks?: FormioHookOptions;
     sanitizeConfig?: any;
 }
+//# sourceMappingURL=formio.common.d.ts.map

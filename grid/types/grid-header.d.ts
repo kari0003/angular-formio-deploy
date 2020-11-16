@@ -10,3 +10,4 @@ export declare enum SortType {
     ASC = "asc",
     DESC = "desc"
 }
+//# sourceMappingURL=grid-header.d.ts.map

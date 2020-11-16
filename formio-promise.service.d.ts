@@ -13,3 +13,4 @@ export declare class FormioPromiseService {
     saveSubmission(submission: {}, options?: any): Promise<any>;
     loadSubmissions(query?: any, options?: any): Promise<any>;
 }
+//# sourceMappingURL=formio-promise.service.d.ts.map

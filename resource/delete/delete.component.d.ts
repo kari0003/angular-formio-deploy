@@ -11,3 +11,4 @@ export declare class FormioResourceDeleteComponent {
     static ɵfac: i0.ɵɵFactoryDef<FormioResourceDeleteComponent, never>;
     static ɵcmp: i0.ɵɵComponentDefWithMeta<FormioResourceDeleteComponent, "ng-component", never, {}, {}, never, never>;
 }
+//# sourceMappingURL=delete.component.d.ts.map

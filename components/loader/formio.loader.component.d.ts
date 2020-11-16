@@ -4,3 +4,4 @@ export declare class FormioLoaderComponent {
     static ɵfac: i0.ɵɵFactoryDef<FormioLoaderComponent, never>;
     static ɵcmp: i0.ɵɵComponentDefWithMeta<FormioLoaderComponent, "formio-loader", never, { "isLoading": "isLoading"; }, {}, never, never>;
 }
+//# sourceMappingURL=formio.loader.component.d.ts.map

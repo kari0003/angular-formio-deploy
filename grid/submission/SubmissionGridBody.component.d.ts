@@ -16,3 +16,4 @@ export declare class SubmissionGridBodyComponent extends GridBodyComponent {
     static ɵfac: i0.ɵɵFactoryDef<SubmissionGridBodyComponent, never>;
     static ɵcmp: i0.ɵɵComponentDefWithMeta<SubmissionGridBodyComponent, "ng-component", never, {}, {}, never, never>;
 }
+//# sourceMappingURL=SubmissionGridBody.component.d.ts.map

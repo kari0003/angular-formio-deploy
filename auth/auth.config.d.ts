@@ -58,3 +58,4 @@ export interface OktaTokenManagerConfig {
     expireEarlySeconds?: number;
     storageKey?: string;
 }
+//# sourceMappingURL=auth.config.d.ts.map
